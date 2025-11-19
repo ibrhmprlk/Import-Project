@@ -1,6 +1,6 @@
 📝 Product Import Command – Prompt (TR & EN)
-
 🇹🇷 Türkçe Açıklama
+
 Bu proje için bir yapay zekâ kod asistanına (ChatGPT, Claude veya GitHub Copilot gibi) verilmek üzere bir komut istemi (prompt) hazırlanmıştır.
 Amaç, üçüncü taraf bir API’den ürün verilerini içe aktaran, basit ama doğru çalışan bir Laravel Artisan komutu oluşturmaktır.
 Komutun üretime hazır, temiz ve anlaşılır bir yapıda olması hedeflenmiştir.
@@ -29,11 +29,10 @@ Gereksinimler şöyle:
 📌 Kod tek dosyada da olabilir veya istersen basit bir service class kullanabilirsin
 📌 İstersen basit bir model + migration örneği ekleyebilirsin, ama karmaşıklaştırma
 
-Amacım: İlk denemede sorunsuz çalışan sade bir import komutu elde etmek
-
----
+Amacım: İlk denemede sorunsuz çalışan sade bir import komutu elde etmek ✅
 
 🇬🇧 English Description
+
 This repository includes a detailed prompt created for an AI coding assistant (ChatGPT, Claude, GitHub Copilot, etc.) to generate a clean and functional Laravel Artisan command.
 The command’s purpose is to import product data from a third-party API.
 The prompt is designed to ensure that the AI produces working, production-ready code on the first attempt, without unnecessary architectural complexity.
