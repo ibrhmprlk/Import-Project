@@ -31,6 +31,8 @@ Gereksinimler şöyle:
 
 Amacım: İlk denemede sorunsuz çalışan sade bir import komutu elde etmek
 
+---
+
 🇬🇧 English Description
 This repository includes a detailed prompt created for an AI coding assistant (ChatGPT, Claude, GitHub Copilot, etc.) to generate a clean and functional Laravel Artisan command.
 The command’s purpose is to import product data from a third-party API.
